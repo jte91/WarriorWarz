@@ -1,0 +1,15 @@
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\bin\Debug\net6.0\COOP.exe
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\bin\Debug\net6.0\COOP.deps.json
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\bin\Debug\net6.0\COOP.runtimeconfig.json
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\bin\Debug\net6.0\COOP.dll
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\bin\Debug\net6.0\COOP.pdb
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.csproj.AssemblyReference.cache
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.AssemblyInfoInputs.cache
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.AssemblyInfo.cs
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.csproj.CoreCompileInputs.cache
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.dll
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\refint\COOP.dll
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.pdb
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\COOP.genruntimeconfig.cache
+C:\Users\Je'Shon\Coding\C#\COOP\COOP\obj\Debug\net6.0\ref\COOP.dll
