@@ -1,6 +1,0 @@
-C:\Users\Je'Shon\source\repos\AlexsWebsite\AlexsWebsite\obj\Debug\AlexsWebsite.njsproj.AssemblyReference.cache
-C:\Users\Je'Shon\source\repos\AlexsWebsite\AlexsWebsite\obj\Debug\AlexsWebsite.njsproj.CoreCompileInputs.cache
-C:\Users\Je'Shon\source\repos\AlexsWebsite\AlexsWebsite\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\Je'Shon\Coding\AlexsWebsite\AlexsWebsite\obj\Debug\AlexsWebsite.njsproj.AssemblyReference.cache
-C:\Users\Je'Shon\Coding\AlexsWebsite\AlexsWebsite\obj\Debug\AlexsWebsite.njsproj.CoreCompileInputs.cache
-C:\Users\Je'Shon\Coding\AlexsWebsite\AlexsWebsite\bin\Microsoft.NodejsTools.WebRole.dll
